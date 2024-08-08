@@ -58,8 +58,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <a href="https://www.linkedin.com/in/devgabrielsantos01/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
@@ -73,6 +71,12 @@
 </div>
 
 ###
+
+<img align="left" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2U1eXZoMTdmcHk3ODV0NTB4d2p0aWNpb2tvZmc3OGZlNjAzcnB3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btQsLqXMJAPu6Na/giphy.webp"  />
+
+###
+
+<br clear="both">
 
 <div align="center">
   <img height="300" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=9FC1F6&section=footer"  />
