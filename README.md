@@ -1,4 +1,4 @@
-<img align="left" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBoYWx2cXcwbm96eXk1eHJkaWZlYnMzZWZrM3Ziem1xd3JmdGwyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp"  />
+<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBoYWx2cXcwbm96eXk1eHJkaWZlYnMzZWZrM3Ziem1xd3JmdGwyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp"  />
 
 ###
 
@@ -8,17 +8,13 @@
 
 ###
 
-<br clear="both">
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-0116&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="left">Estou profundamente conectado com o mundo da programação e meu objetivo é me tornar um Desenvolvedor Full Stack de sucesso que possa fazer a diferença. Meu diferencial é o rápido aprendizado, uma boa comunicação e sou flexível. Possuo uma forte facilidade e experiência em trabalho em equipe que pode ser muito útil.</p>
 
 ###
 
 <br clear="both">
 
-<h2 align="center">Languages ​​and tools</h2>
+<h2 align="left">Languages ​​and tools</h2>
 
 ###
 
@@ -40,17 +36,13 @@
 
 ###
 
-<br clear="both">
-
-<h2 align="center">About me</h2>
-
-###
-
-<p align="center">Estou profundamente conectado com o mundo da programação e meu objetivo é me tornar um Desenvolvedor Full Stack de sucesso que possa fazer a diferença. Meu diferencial é o rápido aprendizado, uma boa comunicação e sou flexível. Possuo uma forte facilidade e experiência em trabalho em equipe que pode ser muito útil.</p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-0116&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
-<h2 align="center">Contact</h2>
+<h2 align="left">Contact</h2>
 
 ###
 
@@ -68,12 +60,10 @@
 
 ###
 
-<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2U1eXZoMTdmcHk3ODV0NTB4d2p0aWNpb2tvZmc3OGZlNjAzcnB3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btQsLqXMJAPu6Na/giphy.webp"  />
+<img align="right" height="200" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=9FC1F6&section=footer"  />
 
 ###
 
-<div align="right">
-  <img height="200" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=9FC1F6&section=footer"  />
-</div>
+<img align="left" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2U1eXZoMTdmcHk3ODV0NTB4d2p0aWNpb2tvZmc3OGZlNjAzcnB3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btQsLqXMJAPu6Na/giphy.webp"  />
 
 ###
