@@ -2,11 +2,11 @@
 
 ###
 
-<div align="left">
-  <img height="200" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=9FC1F6&text=Hello,%20guys!%20🤙🏻&fontColor=fff&stroke=9EA8B9&animation=twinkling&desc=My%20name%20is%20Gabriel%20Santos&descSize=30&fontAlignY=30&fontAlign=50&descAlign=50&reversal=false"  />
-</div>
+<img align="left" height="200" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=9FC1F6&text=Hello,%20guys!%20🤙🏻&fontColor=fff&stroke=9EA8B9&animation=twinkling&desc=My%20name%20is%20Gabriel%20Santos&descSize=30&fontAlignY=30&fontAlign=50&descAlign=50&reversal=false"  />
 
 ###
+
+<br clear="both">
 
 <p align="left">Estou profundamente conectado com o mundo da programação e meu objetivo é me tornar um Desenvolvedor Full Stack de sucesso que possa fazer a diferença. Meu diferencial é o rápido aprendizado, uma boa comunicação e sou flexível. Possuo uma forte facilidade e experiência em trabalho em equipe que pode ser muito útil.</p>
 
