@@ -48,13 +48,13 @@
 
 <br clear="both">
 
-<p align="center">Meu diferencial é o rápido aprendizado, uma boa comunicação e sou flexível. Possuo uma forte facilidade e experiência em trabalho em equipe que pode ser muito útil. Agora estou profundamente conectado com o mundo da programação e meu objetivo é me tornar um Desenvolvedor Full Stack de sucesso que possa fazer a diferença.</p>
+<p align="center">Estou profundamente conectado com o mundo da programação e meu objetivo é me tornar um Desenvolvedor Full Stack de sucesso que possa fazer a diferença. Meu diferencial é o rápido aprendizado, uma boa comunicação e sou flexível. Possuo uma forte facilidade e experiência em trabalho em equipe que pode ser muito útil.</p>
 
 ###
 
 <br clear="both">
 
-<h2 align="center">Contact me</h2>
+<h2 align="center">Contact</h2>
 
 ###
 
@@ -70,6 +70,12 @@
   <a href="https://www.instagram.com/gabrielsz01/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="300" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=9FC1F6&section=footer"  />
 </div>
 
 ###
